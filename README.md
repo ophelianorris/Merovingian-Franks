@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to the Dark Ages.
 
-You can use the [editor on GitHub](https://github.com/ophelianorris/Merovingian-Franks/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+What do you know about the Dark Ages?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Today, you will be introduced to the fascinating, frightening and even funny period of the early Middle Ages. It also has the much more exciting title, "Dark Ages", which refers to the period of roughly **450-750 AD in Western Europe.
 
-### Markdown
+# Why do they matter?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This period is vital for understanding our world today. It is at the end of the **Roman Empire**, during the birth of **Mohammed** and expansion of the Islamic Empire, and before the reign of **Charlemagne**. 
 
-```markdown
-Syntax highlighted code block
+It is in this period that the difference between Western "Catholic" and Eastern "Orthodox" **Christianities** begin to take hold. 
+It is in this period that the Mediterrean **slave** trade begins. 
+It is in this period that the **pagans**, worshipping strange gods and trees, are persecuted and ended throughout most of Europe.
 
-# Header 1
-## Header 2
-### Header 3
+Even though today's world (our culture, society and economy) is vastly different, the seeds of today can be found here, and provide essential context to the millenium and a half in between. 
 
-- Bulleted
-- List
+It is also a jaw-droppingly thrilling period. From brothers betraying brothers, to civil war, strife, magical men and miracle-workers, the Dark Ages themselves and the sources we have from them rival the likes of *Game of Thrones*.
 
-1. Numbered
-2. List
+And yet, you never studied it in school.
 
-**Bold** and _Italic_ and `Code` text
+# How do we know about the Dark Ages?
 
-[Link](url) and ![Image](src)
-```
+Most of what we know about the Dark Ages, especially about the sixth century, comes from just one source: a history book, written by a Bishop central France. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+He wrote a tale of magic, murder and miracles.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ophelianorris/Merovingian-Franks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Click here, or use the navigation bar to find out more about this.
