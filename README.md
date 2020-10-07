@@ -2,7 +2,7 @@
 
 What do you know about the Dark Ages?
 
-Today, you will be introduced to the fascinating, frightening and even funny period of the early Middle Ages. It also has the much more exciting title, "Dark Ages", which refers to the period of roughly **450-750 AD in Western Europe.
+Today, you will be introduced to the fascinating, frightening and even funny period of the early Middle Ages. It also has the much more exciting title, "Dark Ages", which refers to the period of roughly 450-750 AD in Western Europe.
 
 # Why do they matter?
 
