@@ -2,27 +2,19 @@
 
 What do you know about the Dark Ages?
 
-Today, you will be introduced to the fascinating, frightening and even funny period of the early Middle Ages. 
+The early Middle Ages are a fascinating, frightening and even funny period of history. 
 
-It also has the much more exciting title, "Dark Ages", which refers to the period of roughly 450-750 AD in Western Europe.
+They also have the much more exciting title, "Dark Ages", which refers to the period of roughly 450-750 AD in Western Europe.
 
 # Why do they matter?
 
-This period is vital for understanding our world today. It is at the end of the **Roman Empire**, during the birth of **Mohammed** and expansion of the Islamic Empire, and before the reign of **Charlemagne**. 
+This period helps us understand our world today.  
 
+Even though today's world (our culture, society and economy) is vastly different, people's humanity remains the same. This period provides essential context to the millenium and a half in between.
 
+It is also a jaw-droppingly thrilling era. From brothers betraying brothers, to civil war, strife, magical men and miracle-workers, the Dark Ages themselves and the sources we have from them rival the likes of *Game of Thrones*.
 
-It is in this period that the difference between Western "Catholic" and Eastern "Orthodox" **Christianities** begin to take hold. 
-
-It is in this period that the Mediterrean **slave** trade begins. 
-
-It is in this period that the **pagans**, worshipping strange gods and trees, are persecuted and ended throughout most of Europe.
-
-Even though today's world (our culture, society and economy) is vastly different, the seeds of today can be found here, and provide essential context to the millenium and a half in between. 
-
-It is also a jaw-droppingly thrilling period. From brothers betraying brothers, to civil war, strife, magical men and miracle-workers, the Dark Ages themselves and the sources we have from them rival the likes of *Game of Thrones*.
-
-And yet, you never studied it in school.
+And yet, you probably never studied it in school.
 
 # How do we know about the Dark Ages?
 
