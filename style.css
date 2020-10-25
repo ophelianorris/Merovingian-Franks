@@ -19,11 +19,11 @@ body {
 
 body, pre, pre code {
   font-size: 17px;
-  body colour: #E6E6FA
+  body colour: rgb(230,230,250)
 }
 
 a, a:visited {
-  color: #E6E6FA;
+  color: rgb(230,230,250);
 }
 
 h1, h2 {
