@@ -22,4 +22,4 @@ Most of what we know about the Dark Ages, especially about the sixth century, co
 
 He wrote a tale of **magic, murder and miracles**.
 
-Click here, or use the navigation bar to find out more about this.
+Use the navigation bar to find out more about this.
