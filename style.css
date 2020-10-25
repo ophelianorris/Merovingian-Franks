@@ -1,7 +1,7 @@
 
 
 html {
-  background-color: #fefffd;
+  background-color: #2C3E50;
 }
 
 body {
@@ -18,17 +18,17 @@ body {
 }
 
 body, pre, pre code {
-  font-size: 20px;
+  font-size: 17px;
 }
 
 a, a:visited {
-  color: #48820f;
+  color: #E6E6FA;
 }
 
 h1, h2 {
   display: inline-block;
   border-bottom-style: dashed;
-  border-bottom-color: #A52A2A;
+  border-bottom-color: #F2D7D5;
 }
 
 h1 {
