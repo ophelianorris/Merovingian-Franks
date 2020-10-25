@@ -12,13 +12,13 @@ body {
 
 
 
-   font-family: "Georgia", serif;
+   font-family: "Verdana", sans-serif;
   font-weight: normal;
   font-style: normal;
 }
 
 body, pre, pre code {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 a, a:visited {
@@ -27,12 +27,12 @@ a, a:visited {
 
 h1, h2 {
   display: inline-block;
-  border-bottom-style: dotted;
-  border-bottom-color: #48820f;
+  border-bottom-style: dashed;
+  border-bottom-color: #A52A2A;
 }
 
 h1 {
-  border-bottom-width: 10px;
+  border-bottom-width: 5px;
 }
 
 h2 {
