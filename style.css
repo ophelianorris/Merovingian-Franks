@@ -5,7 +5,6 @@ html {
 }
 
 body {
-  color: lavender
   width: 750px;
   max-width: 90%;
   margin: 0 auto;
@@ -23,7 +22,7 @@ body, pre, pre code {
 }
 
 a, a:visited {
-  color: lavender;
+  color: white;
 }
 
 h1, h2 {
