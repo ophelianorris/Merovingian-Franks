@@ -23,7 +23,7 @@ body, pre, pre code {
 }
 
 a, a:visited {
-  color: rgb(230,230,250);
+  color: RGB(230,230,250);
 }
 
 h1, h2 {
